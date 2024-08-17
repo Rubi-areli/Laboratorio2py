@@ -1,4 +1,4 @@
-BIBLIOTECA
+
 Diseñar un ejercicio que aplique los principios de la Programación 
 Orientada a Objetos (POO), con su respectiva implementación e 
 instanciación. El ejercicio debe permitir la entrada de datos por 
